@@ -84,9 +84,10 @@ p {
 }
 
 h2 {
-  margin-top: -1px;
   padding-left: 20px;
   padding-right: 5px;
+  margin: 0;
+  font-weight: lighter;
 }
 
 .download {
@@ -122,15 +123,6 @@ hr {
   margin-top: 50px;
 }
 
-.image {
-
-}
-
 .text {
   width: 750px;
-  justify-content: center;
-}
-
-.intext {
-  width:
 }
